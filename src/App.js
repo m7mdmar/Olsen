@@ -1,13 +1,5 @@
-import { useState } from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Button from "./components/Button/Button";
-
 function App() {
-    return (
-        <div>
-            <Button>TEXT</Button>
-        </div>
-    );
+    return <div className="">asds</div>;
 }
 
 export default App;
