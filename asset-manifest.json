@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a56dd18.css",
-    "main.js": "/static/js/main.3619b8a2.js",
-    "static/media/Carousel-2.jpg": "/static/media/Carousel-2.efa02e95988335de7624.jpg",
-    "static/media/Carousel-4.jpg": "/static/media/Carousel-4.c994bc1a2aa686b3cfe6.jpg",
-    "static/media/Carousel-3.jpg": "/static/media/Carousel-3.4b22476d929c95867e1f.jpg",
-    "static/media/Carousel-1.jpg": "/static/media/Carousel-1.03a6f2f5810c2cdd79cc.jpg",
-    "index.html": "/index.html",
-    "main.1a56dd18.css.map": "/static/css/main.1a56dd18.css.map",
-    "main.3619b8a2.js.map": "/static/js/main.3619b8a2.js.map"
+    "main.css": "/Olsen/static/css/main.1a56dd18.css",
+    "main.js": "/Olsen/static/js/main.c695ac6b.js",
+    "static/media/Carousel-2.jpg": "/Olsen/static/media/Carousel-2.efa02e95988335de7624.jpg",
+    "static/media/Carousel-4.jpg": "/Olsen/static/media/Carousel-4.c994bc1a2aa686b3cfe6.jpg",
+    "static/media/Carousel-3.jpg": "/Olsen/static/media/Carousel-3.4b22476d929c95867e1f.jpg",
+    "static/media/Carousel-1.jpg": "/Olsen/static/media/Carousel-1.03a6f2f5810c2cdd79cc.jpg",
+    "index.html": "/Olsen/index.html",
+    "main.1a56dd18.css.map": "/Olsen/static/css/main.1a56dd18.css.map",
+    "main.c695ac6b.js.map": "/Olsen/static/js/main.c695ac6b.js.map"
   },
   "entrypoints": [
     "static/css/main.1a56dd18.css",
-    "static/js/main.3619b8a2.js"
+    "static/js/main.c695ac6b.js"
   ]
 }
