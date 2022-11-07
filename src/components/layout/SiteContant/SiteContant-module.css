@@ -1,0 +1,9 @@
+.border-warning {
+    opacity: 0.6;
+    transition: 0.1s;
+}
+
+.border-warning:hover {
+    opacity: 1;
+    transition: 0.1s;
+}
