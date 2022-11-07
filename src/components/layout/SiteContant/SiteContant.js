@@ -12,7 +12,7 @@ export default function SiteContant() {
                         August 30, 2021
                     </time>
 
-                    <a href="#"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/looks007-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
+                    <a href="/"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/looks007-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
 
                     <blockquote >
                         <p class="text-left p-3">
@@ -20,8 +20,8 @@ export default function SiteContant() {
                         </p>
                     </blockquote>
                     <div class="d-flex me-auto">
-                        <hr class="col-10" />
-                        <button type="button" class="btn border border-warning boutton-Down" >Warning</button>
+                        <hr class="col-9" />
+                        <button type="button" class="btn border border-warning boutton-Down" >Continue Reading</button>
                     </div>
 
                 </div>
@@ -33,7 +33,7 @@ export default function SiteContant() {
                         August 30, 2021
                     </time>
 
-                    <a href="#"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/untold0171-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
+                    <a href="/"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/untold0171-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
 
                     <blockquote >
                         <p class="text-left p-3">
@@ -41,8 +41,8 @@ export default function SiteContant() {
                         </p>
                     </blockquote>
                     <div class="d-flex me-auto">
-                        <hr class="col-10" />
-                        <button type="button" class="btn border border-warning boutton-Down" >Warning</button>
+                        <hr class="col-9" />
+                        <button type="button" class="btn border border-warning boutton-Down" >Continue Reading</button>
                     </div>
 
                 </div>
@@ -54,7 +54,7 @@ export default function SiteContant() {
                         August 30, 2021
                     </time>
 
-                    <a href="#"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/photo-1436397543931-01c4a5162bdb-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
+                    <a href="/"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/photo-1436397543931-01c4a5162bdb-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
 
                     <blockquote >
                         <p class="text-left p-3">
@@ -62,8 +62,8 @@ export default function SiteContant() {
                         </p>
                     </blockquote>
                     <div class="d-flex me-auto">
-                        <hr class="col-10" />
-                        <button type="button" class="btn border border-warning boutton-Down" >Warning</button>
+                        <hr class="col-9" />
+                        <button type="button" class="btn border border-warning boutton-Down" >Continue Reading</button>
                     </div>
 
                 </div>
@@ -75,7 +75,7 @@ export default function SiteContant() {
                         August 30, 2021
                     </time>
 
-                    <a href="#"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/untold002-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
+                    <a href="/"><img width="720" height="471" src="https://www.cssigniter.com/demos/olsen-light/wp-content/uploads/sites/40/2015/09/untold002-720x471.jpg" class="p-3" alt="" itemprop="image" /></a>
 
                     <blockquote >
                         <p class="text-left p-3">
@@ -83,8 +83,8 @@ export default function SiteContant() {
                         </p>
                     </blockquote>
                     <div class="d-flex me-auto">
-                        <hr class="col-10" />
-                        <button type="button" class="btn border border-warning boutton-Down" >Warning</button>
+                        <hr class="col-9" />
+                        <button type="button" class="btn border border-warning boutton-Down" >Continue Reading</button>
                     </div>
 
                 </div>
@@ -105,19 +105,19 @@ export default function SiteContant() {
                 </div>
                 <ul class="d-flex p-3">
                     <li class="m-auto">
-                        <a class="dropdown-item p-2" href="#"><FontAwesomeIcon icon={faFacebook} />
+                        <a class="dropdown-item p-2" href="/"><FontAwesomeIcon icon={faFacebook} />
                         </a>
                     </li>
                     <li class="m-auto">
-                        <a class="dropdown-item p-2" href="#"><FontAwesomeIcon icon={faTwitter} />
+                        <a class="dropdown-item p-2" href="/"><FontAwesomeIcon icon={faTwitter} />
                         </a>
                     </li>
                     <li class="m-auto">
-                        <a class="dropdown-item p-2" href="#"><FontAwesomeIcon icon={faPinterest} />
+                        <a class="dropdown-item p-2" href="/"><FontAwesomeIcon icon={faPinterest} />
                         </a>
                     </li>
                     <li class="m-auto">
-                        <a class="dropdown-item p-2" href="#"><FontAwesomeIcon icon={faDribbble} />
+                        <a class="dropdown-item p-2" href="/"><FontAwesomeIcon icon={faDribbble} />
                         </a>
                     </li>
                 </ul>
